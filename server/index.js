@@ -5,4 +5,4 @@ app.use("/", (req, res)=>{
     res.send("Olá Mundo");
 })
 
-app.listen(8080, console.log("Servidor iniciado na porta 8000"));
+app.listen(5000, console.log("Servidor iniciado na porta 8000"));
